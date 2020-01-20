@@ -24,7 +24,7 @@ Unless you strike it _extremely_ lucky then chances are you're going to have to 
 Fortunately, there's a simple way to achieve this:
 
 - Plug an audio source (VCO, whatever) into one or both of the signal inputs - it doesn't matter which.
-- Turn the CV attenuators fully clockwise
+- Turn the CV attenuators fully counter-clockwise
 - Plug the output into either an oscilloscope (preferred) or a suitable speaker.
 - **If you're using an oscilloscope**, adjust the trimmer pot on the module until the output is 0V (or whatever value you prefer). 
 - If you're working by ear:
