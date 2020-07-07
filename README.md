@@ -4,7 +4,7 @@ I've done more than my fair share of lo-fi VCAs in the past, so here's one with 
 
 Unlike some others, this module is built around the THAT2180 Blackmer cell IC - I find it easier to use, and less prone to self-destruction, than the V2164.
 
-This is a 100% through-hole build, with everything included including a THAT2180C IC - there are a couple of different versions of the THAT2180 (A and B) but unless you're looking for insanely low levels of THD the C variant gives the best bang for the buck, so that's what I've included. 
+This is a 100% through-hole build - there are a couple of different versions of the THAT2180 (A and B) but unless you're looking for insanely low levels of THD the C variant gives the best bang for the buck.
 
 In addition there are a pair of signal inputs (unattenuated) and a pair of control-voltage inputs with associated attenuators. Prototype versions of this module had one attenuated and one unattenuated CV channel, but since the 2180 is pretty sensitive where control voltages are concerned I decided to add an attenuator to the second CV channel too - even so, it's possible to get some _very_ cool sounding distortion out of it with the levels turned up.
 
